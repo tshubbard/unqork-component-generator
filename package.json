@@ -6,9 +6,14 @@
 		"email": "travis.hubbard@unqork.com",
 		"url": "https://unqork.com"
 	},
+	"publisher": "tshubbard",
 	"description": "This extension lets you quickly generate a Typescript Component, CSS file, and test file after right-clicking on a folder.",
 	"license": "MIT",
 	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tshubbard/unqork-component-generator.git"
+	},
 	"engines": {
 		"vscode": "^1.63.0"
 	},
