@@ -23,4 +23,6 @@ None yet!
 ### [0.1.1] - 2022-01-28
 
 - Added logo to package
+### [0.1.2] - 2022-01-28
 
+- Added better logo
