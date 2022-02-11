@@ -25,7 +25,7 @@ function generateComponent(props: GenerateComponentProps) {
     const compFileName = `${componentName}.tsx`
     const compCSSFileName = `${componentName}.css`
     const indexFileName = 'index.ts'
-    const compTestFileName = `${componentName}.test.tsx`
+    const compTestFileName = `${componentName}.unit.test.tsx`
 
     fs.writeFileSync(path.join(compFolderName, compFileName), reactFileTpl);
 

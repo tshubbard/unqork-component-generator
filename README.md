@@ -13,16 +13,3 @@ This extension lets you quickly generate a Typescript Component, CSS file, and t
 ## Known Issues
 
 None yet!
-
-## Release Notes
-
-### [0.1.0] - 2022-01-27
-
-- Initial release of the Unqork Component Generator
-
-### [0.1.1] - 2022-01-28
-
-- Added logo to package
-### [0.1.2] - 2022-01-28
-
-- Added better logo
